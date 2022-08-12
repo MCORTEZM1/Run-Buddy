@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# Run Buddy, Inc :dog:
 
 ## Purpose
 A website that offers fitness training services. 
